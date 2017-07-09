@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![]({{ site.url }}/assets/images/luna.jpg)
+![]({{ site.url }}/assets/images/luna.JPG)
 
 My name is Samantha. 
 Luna is my cat. 
