@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![cat]({{ site.url }}/assets/images/cat.jpg)
+
 My name is Samantha. 
 Luna is my cat. 
 We both really love to eat, sleep, daydream. 
