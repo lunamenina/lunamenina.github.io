@@ -6,6 +6,8 @@ permalink: /about/
 
 ![]({{ site.url }}/assets/images/luna.JPG)
 
+<img style="float: left;" src="{{ site.url }}/assets/images/luna.JPG">
+
 My name is Samantha. Luna is my cat. 
 We both really love to eat, daydream, sleep. We both prefer people watching to socializing. 
 I sometimes code and tinker, but Luna is obsessed with keyboards and resistors. 
