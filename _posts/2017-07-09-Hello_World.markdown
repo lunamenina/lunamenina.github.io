@@ -3,8 +3,8 @@ layout: post
 title:  "Hello World"
 date:   2017-07-09 14:34:25
 categories: mics
-image: /assets/article_images/2017-07-09-hello-world.JPG
-image2: /assets/article_images/2017-07-09-hello-world.JPG	
+image: /assets/article_images/2017-07-09-hello-world.png
+image2: /assets/article_images/2017-07-09-hello-world.png
 ---
 
 The first program you write to print a line. <br />
