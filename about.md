@@ -7,7 +7,7 @@ permalink: /about/
 I'm Samantha. She's Luna. 
 
 We both like people watching. 
-We are both solo explorers. <br />
+We both enjoy solo explorations. <br />
 I somtimes code and tinker. 
 She mostly sleeps and wanders. <br />
 I think we're very much alike, 
