@@ -6,6 +6,7 @@ gems:
 # Site settings
 title: "Luna is a Cat"
 description: > # this means to ignore newlines until "email:"
+   Time is an Illusion. </br >
    Eat. Daydream. Sleep. 
 
 email: a-mail@mail.mail
