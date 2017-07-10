@@ -4,10 +4,8 @@ title:  "Hello World"
 date:   2017-07-09 14:34:25
 categories: mics
 image: /assets/article_images/2017-07-09-hello-world.png
-image2: /assets/article_images/2017-07-09-hello-world.png
+image2: /assets/article_images/2017-07-09-hello-world.JPG
 ---
-
-
 <br />
 The first program you write to print a line. <br />
 The first app you make to display a message. <br />
