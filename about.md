@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-My name is Samantha. Luna is my cat. 
+I'm Samantha. She's Luna. 
 
-We both prefer people watching to actual socializing. 
+We both like people watching. 
+We are both solo explorers. 
+I somtimes code and tinker. 
+She mostly sleeps and wanders. 
+I think we are very much alike, 
+except that she is more philosophical. 
 
 
 
