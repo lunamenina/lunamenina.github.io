@@ -7,10 +7,7 @@ image: /assets/article_images/2017-07-09-hello-world.png
 image2: /assets/article_images/2017-07-09-hello-world.JPG
 ---
 <br />
-The first program you write to print a line. <br />
-The first app you make to display a message. <br />
-The first circuit you hook up to blink an LED. <br />
-So here goes the obligatory "Hello World" post. <br />
+Here is the obligatory "Hello World" post. <br />
 
 
 
