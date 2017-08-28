@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hidden"
+title:  "Hidden Lake"
 date:   2017-08-27 14:09:00
 categories: mics
 image: /assets/article_images/hidden_lake_2.JPG
