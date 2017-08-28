@@ -8,6 +8,7 @@ image2: /assets/article_images/hidden_lake_2.JPG
 ---
 <br /> 
 ![Image of Hidden Lake](/assets/article_images/hidden_lake_1.JPG)
+<br />
 
 ![Image of Hidden Lake2](/assets/article_images/hidden_lake_2.JPG)
 
