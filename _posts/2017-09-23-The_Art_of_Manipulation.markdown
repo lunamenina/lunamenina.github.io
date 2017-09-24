@@ -3,8 +3,8 @@
  title:  "The Art of Manipulation"
  date:   2017-09-23 22:34:25
  categories: mics
- image: /assets/article_images/2017-07-09-hello-world.png
- image2: /assets/article_images/2017-07-09-hello-world.JPG
+ image: /assets/article_images/2017-09-23-luna.JPG
+ image2: /assets/article_images/2017-09-23-luna.JPG
 ---
 
 <br />
