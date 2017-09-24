@@ -1,4 +1,3 @@
-
 ---
  layout: post
  title:  "The Art of  Manipulation"
@@ -7,6 +6,7 @@
  image: /assets/article_images/2017-07-09-hello-world.png
  image2: /assets/article_images/2017-07-09-hello-world.JPG
 ---
+
 <br />
 I used to love people watching, a lot. 
 Ever since I got Luna, a half Siamese, half Snowshoe mix, I sort of ditched my old pastime hobby, as I realized that the cat is so much more fascinating to watch than humans. 
