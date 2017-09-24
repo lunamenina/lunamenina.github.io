@@ -7,7 +7,7 @@ image: /assets/article_images/2017-07-09-hello-world.png
 image2: /assets/article_images/2017-07-09-hello-world.JPG
 ---
 <br />
-Here is the obligatory "Hello World" post. <br />
+The obligatory "Hello World" post. <br />
 
 
 
