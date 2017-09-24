@@ -36,4 +36,4 @@ Some people describe their fluffy companions as "a pure bundle of joy". As I wat
 
 ---
 
-I hope to be writing more about Luna here. This is just a start of the journey, to unravel a fascinating feline soul, to the human world. 
+I hope this is the start of a journey, to unravel a fascinating feline soul, to the human world. 
