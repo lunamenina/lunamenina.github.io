@@ -28,10 +28,7 @@ I unwillingly admit, that mastering the techniques, is a very different thing th
 <br />
 <br />
 So I let her rule, as she rewards me with her openly exposed belly, her steady head rubbing, and her mellow purring. 
-Some people describe their fluffy companions as "a pure bundle of joy". 
-<br />
-<br />
-As Luna falls asleep quietly by my side, in her queen-size human bed, I do feel the joy, of two perhaps lonely souls connecting mysteriously. And every day, I thank the universe for working its magic, in some incomprehensible, yet marvelous way. But Luna is more than a bundle of joy, she is a bundle of many, many things to me. 
+Some people describe their fluffy companions as "a pure bundle of joy". As I watch her fall asleep quietly by my side, in her queen-size human bed, I do feel the joy, of two perhaps lonely souls connecting mysteriously. And every day, I thank the universe for working its magic, in some incomprehensible, yet marvelous way. But Luna is more than a bundle of joy, she is a bundle of many, many things to me. 
 <br />
 <br />
 
