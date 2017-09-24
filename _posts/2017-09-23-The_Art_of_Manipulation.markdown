@@ -14,7 +14,7 @@ I used to love people watching, a lot.
 Ever since I got Luna, a half Siamese, half Snowshoe mix, I sort of ditched my old pastime hobby, as I realized that the cat is so much more fascinating to watch than humans. 
 <br />
 <br />
-I'd watch her basking in the summer sun, with her eyes half shut, and her silver fur shimmering gloriously. She sits in her own shadow, and seems so careless, lazy, yet majestic. She yawns. Long and Powerful. In that soft yawn, there's a spark of ferocity, a fierce soul, buried deep. Eventually, she rolls over, and stretches herself over the world, like the long summer day, stretching from early morning to late night. 
+I'd watch her basking in the summer sun, with her eyes half shut, and her silver fur shimmering gloriously. She sits in her own shadow, and seems so careless, lazy, yet majestic. She yawns. Long and Powerful. In that soft yawn, there's a spark of ferocity, a fierce soul, buried deep. Eventually, she rolls over, and stretches herself over the world, like the long summer day, extending from early morning to late night. 
 <br />
 <br />
 I seriously think, that this cat has mastered the art of manipulation. Or perhaps all cats are masters of manipulation. 
