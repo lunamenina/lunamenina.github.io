@@ -16,7 +16,7 @@ Ever since I found Luna, a half Siamese, half Snowshoe mix, I ditched my old pas
 I'd watch her basking in the summer sun, with her eyes half shut, and her silver fur shimmering gloriously. She sits in her own shadow, and seems so careless, indolent, yet majestic. She yawns. Long and Powerful. In that soft yawn, there's a spark of ferocity, a fierce soul, buried deep. As the sun moves her shadow, she slowly rolls over, and stretches herself over the world, like the long summer day, extending from the bright blessed day to the dark sacred night. 
 <br />
 <br />
-I seriously think, that this cat has mastered the art of manipulation. Or perhaps all cats have. 
+I start to believe, that this cat has mastered the art of manipulation. Or perhaps all cats have. 
 When we first met, she was forbidden from the sacred bedroom. But now there is no prohibited land for her. It is her kingdom. She occupies the highest point of the space, a throne at the top of a cat tree, which I happily bought and assembled for her. She roams freely across the isolated dark realm underneath the bed. She claims ownership of the human bed, the laundry baskets, my lap, and my belly. She reserves the right to inspect all the packages and groceries I bring back. She accepts affection, attention and catnips condescendingly, and ignores them, except catnips, when she demands solitude. 
 <br />
 <br />
