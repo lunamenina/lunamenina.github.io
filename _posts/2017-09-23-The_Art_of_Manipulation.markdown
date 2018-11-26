@@ -5,8 +5,8 @@
  image: /assets/article_images/2017-09-23-luna.jpg
  image2: /assets/article_images/2017-09-23-luna.jpg
 ---
-
 <br />
+
 I used to love people watching, a lot. 
 <br />
 <br />
