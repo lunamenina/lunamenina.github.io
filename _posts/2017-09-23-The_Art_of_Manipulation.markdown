@@ -7,6 +7,7 @@
 ---
 <br />
 I used to love people watching, a lot. 
+
 <br />
 <br />
 Ever since I found Luna, a half Siamese, half Snowshoe mix, I ditched my old pastime hobby, and switched to cat watching.
