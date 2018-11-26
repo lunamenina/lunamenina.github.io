@@ -6,11 +6,11 @@
  image2: /assets/article_images/2017-09-23-luna.jpg
 ---
 <br />
+
 I used to love people watching, a lot. 
 <br />
 <br />
 Ever since I found Luna, a half Siamese, half Snowshoe mix, I ditched my old pastime hobby, and switched to cat watching.
-
 <br />
 <br />
 I'd watch her basking in the summer sun, with her eyes half shut, and her silver fur shimmering gloriously. She sits in her own shadow, and seems so careless, indolent, yet majestic. She yawns. Long and Powerful. In that soft yawn, there's a spark of ferocity, a fierce soul, buried deep. As the sun moves her shadow, she slowly rolls over, and stretches herself over the world, like the long summer day, extending from the bright blessed day to the dark sacred night. 
