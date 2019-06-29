@@ -4,10 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Luna is a Cat"
+title: "墨鼻粉爪"
 description: > # this means to ignore newlines until "email:"
-   Time is an Illusion. </br >
-   Eat. Daydream. Sleep. 
+   Luna is a Philosophical Cat </br > 
 
 email: a-mail@mail.mail
 #blog logo
