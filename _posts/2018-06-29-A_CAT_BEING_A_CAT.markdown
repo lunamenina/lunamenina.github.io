@@ -9,7 +9,7 @@
 
 The Pacific Northwest loves the canine companionship, and it makes a lot of sense. 
 
-The region’s love for dogs is inseparable from its love for the great outdoors. The luscious forests covering the vast land; the majestic mountains calling for the adventurous spirits; thousands of turquoise, jade green, and milky blue lakes whispering into the urban dweller’s hearts.  
+The region’s love for dogs is inseparable from its love for the great outdoors. The luscious forests covering the upper left corner of America; the majestic mountains calling for the adventurous spirits; thousands of turquoise, jade green, and milky blue alpine lakes whispering into the urban dweller’s hearts.  
 
 But every time I see a happy border collie running through the muddy trails that lead to a breathtaking view of the Cascades, or an excited golden retriever diving into a cool swimming hole, surrounded by the wild summer blooms, I wonder if my indoor cat is missing out. Considering how timid and risk-averse she is, she will never have a chance to feel the emotional rush of being on the top of the world, and she will never be able to unleash her predatory instinct when encountering a squirrel, or a bird in the woods. Is she perfectly okay with her timid self? Is she aware of her laziness and unproductivity? Is she enjoying her apartment lifestyle, that’s so disconnected from how her ancestors lived? 
 
