@@ -1,6 +1,6 @@
 ---
  layout: post
- title:  "It's just a cat being a cat"
+ title:  "A Cat Being A Cat"
  date:   2017-09-23 00:00:00
  image: /assets/article_images/2017-09-23-luna.jpg
  image2: /assets/article_images/2017-09-23-luna.jpg
