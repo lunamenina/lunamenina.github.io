@@ -2,8 +2,8 @@
  layout: post
  title:  "A Cat Being A Cat"
  date:   2019-06-29 00:00:00
- image: /assets/article_images/2017-09-23-luna.jpg
- image2: /assets/article_images/2017-09-23-luna.jpg
+ image: /assets/article_images/IMG_1527.JPG
+ image2: /assets/article_images/IMG_1527.JPG
 ---
 <br />
 
