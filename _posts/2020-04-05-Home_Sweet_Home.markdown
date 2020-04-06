@@ -11,13 +11,11 @@
 It is the year of 2020. It is already April. And it is a strange time.
 <br />
 <br />
-For too long, the society has forced the introverts to adapt to the extroverts’ way of living – be loud and visible – it’s like a fake-it-till-you-mean-it kind of game, tolerable, uncomfortable, and unproductive. 
-<br />
-<br />
+The society has always forced the introverts to adapt to the extroverts’ ways – be loud and visible – it’s like a fake-it-till-you-mean-it kind of game, tolerable, uncomfortable, and unproductive. 
 But now it’s a different kind of game. The new social norm of stay-at-home may be driving all the party animals insane, but perhaps for the first time in life, to an introvert, it feels … home.
 <br />
 <br />
-No more obligatory friendly smiles in the elevators; no more small talks in the office break room; no more awkward excuses when you decline yet another social invite because you’d rather order Thai take-out and watch The Office; and no more self-loathing when you realize you basically have no social life, while hearing the mockery inside your own head: Geez, guess whose fault is that?
+No more obligatory friendly smiles in the elevators; no more small talks in the office break room; no more awkward excuses when you decline yet another social invite because you’d rather order Thai take-out and watch The Office; and no more self-loathing when you realize you basically have no social life, knowing that you are the only one to be blamed. 
 <br />
 <br />
 You think to yourself, this all works out quite well. A little strange, but not unexpected.
