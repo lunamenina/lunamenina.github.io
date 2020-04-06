@@ -3,8 +3,8 @@
  title:  "Home, Sweet Home"
  date:   2020-03-30 12:12:12
  categories: mics
- image: /assets/article_images/2017-07-09-hello-world.png
- image2: /assets/article_images/2017-07-09-hello-world.JPG
+ image: /assets/article_images/dusk.jpeg
+ image2: /assets/article_images/dusk.jpeg
 ---
 <br />
 
