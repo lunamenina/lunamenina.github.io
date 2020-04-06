@@ -7,8 +7,7 @@
  image2: /assets/article_images/2017-07-09-hello-world.JPG
 ---
 <br />
-<br />
-<br />
+
 It is the year of 2020. It is almost April. And it is a strange time.
 <br />
 <br />
