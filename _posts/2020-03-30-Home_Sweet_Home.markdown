@@ -1,17 +1,17 @@
 ---
  layout: post
  title:  "Home, Sweet Home"
- date:   2020-03-30 12:12:12
+ date:   2020-04-05 12:12:12
  categories: mics
  image: /assets/article_images/dusk.jpeg
  image2: /assets/article_images/dusk.jpeg
 ---
 <br />
 
-It is the year of 2020. It is almost April. And it is a strange time.
+It is the year of 2020. It is already April. And it is a strange time.
 <br />
 <br />
-For too long, the society has forced the introverts to adapt to the extroverts’ way of living – be loud and visible – it’s like a fake-it-till-you-mean-it kind of game, tolerable, uncomfortable, if not painful.
+For too long, the society has forced the introverts to adapt to the extroverts’ way of living – be loud and visible – it’s like a fake-it-till-you-mean-it kind of game, tolerable, uncomfortable, and unproductive. 
 <br />
 <br />
 But now it’s a different kind of game. The new social norm of stay-at-home may be driving all the party animals insane, but perhaps for the first time in life, to an introvert, it feels … home.
@@ -44,6 +44,6 @@ You have also had time to pick up some old hobbies. You now spend hours playing 
 You have always complained about having no time or space for introspection, but now that you have plenty, you decide to avoid such ordeal, which might just lead to another episode of quarter-life crisis mental breakdown. Instead, you pick up the book that you are almost half way through, and settle into your indoor hammock, knowing that two seconds later, your cat will jump up and start purring on your stomach. Meanwhile, you will probably doze off a bit, taking the fictional world of medieval kings and knights, sailors and merchants, into your unchartered dreamland.
 <br />
 <br />
-When you are ready to say good night to another day of self-quarantine, you casually scroll through everyone’s Instagram stories, because social media is still a mild addition to you. You realize that the familiar images you see, are many, many other isolated tiny worlds, filled with cats and dogs, cooking and baking, indoor workout selfies and superfoods smoothie recipes , online book club reading lists, daily doodles of house plants, half-completed puzzles, and inspirational quotes … you sigh, but quickly reconcile with yourself – maybe you are being cliché, or bourgeois, or whatever. But in this strange time, when the news makes it feel like the world is spinning out of control, maybe everyone is beginning to grasp the new meanings in small things. And to your great amusement, as an introvert, you feel connected with the strangers out there. Because the taste of grains and nuts, the aroma of herbs and flowers, the everchanging shades of the sky, and the sound of the season changing ... those are wonderful things to discover, and rediscover.
+When you are ready to say good night to another day of self-quarantine, you casually scroll through everyone’s Instagram stories, because social media is still a mild addition to you. You realize that the familiar images you see, are many, many other isolated tiny worlds, filled with cats and dogs, cooking and baking, indoor workout selfies and superfoods smoothie recipes , online book club reading lists, daily doodles of house plants, half-completed puzzles, and inspirational quotes … you sigh, but quickly reconcile with yourself – maybe you are being cliché, or bourgeois, or whatever. But in this strange time, when the news makes it feel like the world is spinning out of control, maybe everyone is beginning to grasp the new meanings in small things. And to your great amusement, as an introvert, you feel connected with the strangers out there. Because the taste of grains and nuts, the aroma of herbs and flowers, the everchanging shades of the sky, and the sound of the season changing ... those are wonderful things to savor, to witness, to discover, and to rediscover.
 <br />
 <br />
