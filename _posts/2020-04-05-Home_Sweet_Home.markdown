@@ -1,6 +1,6 @@
 ---
  layout: post
- title:  "Home, Sweet Home"
+ title:  "An Introvert's Take on Self-Quarantine"
  date:   2020-04-05 12:12:12
  categories: mics
  image: /assets/article_images/dusk.jpeg
