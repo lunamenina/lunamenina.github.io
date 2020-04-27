@@ -18,9 +18,8 @@
 
 <br/>
 前几日偶然购得 Challah 面包，随即专门请假半日，为了可以悠闲地做一顿早午餐，而主角，便是法式吐司。多年前就曾听闻 Challah 面包和法式吐司，是浑然天成的绝配，而好几个兴致正浓的周末，造访了数家面包坊，却都未能买到这种犹太面包，虽说最终都找到了算是合适的替代，比如最平常的奶油吐司，或是口感更松软的 Brioche, 用 Challah 面包来做法式吐司，也算是一个多年以来的小小心愿。
-![challah](https://raw.githubusercontent.com/lunamenina/lunamenina.github.io/master/assets/images/2FF8894F-4247-45A6-8EB3-15E5637AE618.png.
 <br/>
-![pain perdu](https://raw.githubusercontent.com/lunamenina/lunamenina.github.io/master/assets/images/2FF8894F-4247-45A6-8EB3-15E5637AE618.png.
+![challah](https://raw.githubusercontent.com/lunamenina/lunamenina.github.io/master/assets/images/936A1DD8-58DA-4CF0-AA58-E22F5C1D383C.png)
 
 印象里做一趟法式吐司，应该是一桩隆重的事，也许是因为，以往都是前一天买了新鲜的面包，入睡前便想好了次日第一件事就是做法式吐司，真正做的步骤虽说无比简单，却因为前奏甜蜜而漫长，不免让人产生错觉。这样看来，本就在家工作，还特意休假半日的行为，似乎是多此一举的。
 
@@ -29,6 +28,9 @@
 
 <br/>
 关于食物，有制作的乐趣，有享用的乐趣，亦有追溯的乐趣。好奇于法式吐司于法国人，叫什么名字，就顺手查寻了一番。在法语里，法式吐司叫作 Pain Perdu, Pain 意为面包 ，Perdu 意为迷失丢弃。原来在更久远的过去，人们把不再新鲜的面包，蘸上蛋液牛奶，烘烤一番后食用。相传早在古罗马，就有关于这种食用方法的记载，而相似的食谱，又见于亨利五世时期的法国宫廷。平常词汇若加以法式的前缀，在英美人的眼里，就显得高雅起来，比如法式薯条，法式压壶，法式麻花辫。而法式吐司，传入北美后，深受喜爱，不知是否也与这种对法国的浪漫联想有关。不过当知道了法式吐司，如此接地气的起源，是不是继而联想到的，不再是红酒松露，而是腌白菜咸鸭蛋了呢？
+
+<br/>
+![pain perdu](https://raw.githubusercontent.com/lunamenina/lunamenina.github.io/master/assets/images/2FF8894F-4247-45A6-8EB3-15E5637AE618.png)
 
 <br/>
 Anthony Bourdain 说得当然没错，但是将不再新鲜的食材，加以创造发挥，并且流传千年而经久不衰，也是一件颇为美好的事。王朝的更替，帝国的起落，那些宏大的历史篇章固然左右了人类的进程，而在更细微处，任由他风起云涌，潮起潮落，却不曾改变的，是祖祖辈辈吃货们对食物的追求。
