@@ -17,7 +17,7 @@
 尽管挑剔的老饕，对早午餐总是颇为鄙夷。已故的美食家 Anthony Bourdain 就曾毫不掩饰地对早午餐大肆批判，称之为“horrible, cynical way of unloading leftovers and charging three times as much as you ordinarily charge for breakfast”  —— 确实，早已商业化的早午餐，将快过期的原料，加以包装粉饰，附以比平常早餐高出三倍的身价，摇身一变，竟代表起了慵懒小资的生活方式。这样的早午餐，显然是被消费主义绑架了的。但是，当我们回归到一种更朴素的生活状态时，早午餐，也可以充满妙趣。
 
 <br/>
-前几日偶然购得 Challah 面包，随即专门请假半日，为的就是可以悠闲地做一顿早午餐。而这主角，便是法式吐司。多年前就曾听闻 Challah 面包和法式吐司，是浑然天成的绝配，而好几个兴致正浓的周末，造访了数家面包坊，却都未能买到这种犹太面包，虽说最终都找到了算是合适的替代，比如最平常的奶油吐司，或是口感更松软的 Brioche, 用 Challah 面包来做法式吐司，也算是一个多年以来的小小心愿。
+前几日偶然购得 Challah 面包，随即专门请假半日，为的就是可以悠闲地做一顿早午餐。而这主角，便是法式吐司。多年前就曾听闻 Challah 面包和法式吐司，是浑然天成的绝配，而好几个兴致正浓的周末，造访了数家面包坊，却都未能买到这种犹太面包，虽说最终都找到了算是合适的替代，比如最普通的奶油吐司，或是口感更松软的 Brioche, 但用 Challah 面包来做法式吐司，也算是一个多年以来的小小心愿。
 <br/>
 ![challah](https://raw.githubusercontent.com/lunamenina/lunamenina.github.io/master/assets/images/936A1DD8-58DA-4CF0-AA58-E22F5C1D383C.png)
 
