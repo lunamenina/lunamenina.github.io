@@ -3,8 +3,8 @@
  title:  "迷失的面包"
  date:   2020-04-25 12:12:12
  categories: mics
- image: /assets/article_images/dusk.jpeg
- image2: /assets/article_images/dusk.jpeg
+ image: /assets/article_images/19F80114-14F5-4C19-82E0-4D97886B3F21.jpeg
+ image2: /assets/article_images/19F80114-14F5-4C19-82E0-4D97886B3F21.jpeg
 ---
 
 <br/>
