@@ -38,12 +38,9 @@ Jambalaya 这种什锦饭，源自新奥尔良著名的法国区，初到新大�
 食物是世界的语言，而语言是文化的载体。新奥尔良人在每年狂欢节之时，喜欢呼喊一句“Laissez les bons temps rouler” ———— 有趣的是，这种法语的表达，也起源于 Cajun, 而在其他法语区并不常见。若用英语直白地释义，即为 “let the good times roll“， 我想不出贴切的中文直译，不过倒觉得，大可以唐诗代替———— 可谓“人生得意须尽欢，莫使金樽空对月“，大概便是如此。
 
 <br/>
-那么，一番啰嗦闲聊之后，也许此时最合适的，就是祝你在准备Jambalaya的时候，怀有一股新奥尔良人引以为豪的 “joie de vivre” 之情，胃口常开，并且笑口常开。
+那么，一番啰嗦闲聊之后，也许此时最合适的，就是祝你在准备Jambalaya的时候，怀有一股新奥尔良人引以为豪的 “joie de vivre” 之情，胃口常开，也笑口常开。
 
 <br/>
 Bon Appétit!
 <br/>
-
-
-
 ![trinity](https://raw.githubusercontent.com/lunamenina/lunamenina.github.io/master/assets/images/9B072FD9-377D-4853-BF11-90C5D6A6231C.png) 
