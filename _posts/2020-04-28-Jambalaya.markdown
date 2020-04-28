@@ -43,4 +43,4 @@ Jambalaya 这种什锦饭，源自新奥尔良著名的法国区，初到新大�
 <br/>
 Bon Appétit!
 <br/>
-![trinity](https://raw.githubusercontent.com/lunamenina/lunamenina.github.io/master/assets/images/9B072FD9-377D-4853-BF11-90C5D6A6231C.png) 
+![trinity](https://raw.githubusercontent.com/lunamenina/lunamenina.github.io/master/assets/images/997B94CC-7386-42AB-B230-5EFA71D52B85.png) 
