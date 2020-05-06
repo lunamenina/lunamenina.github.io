@@ -1,6 +1,6 @@
 ---
  layout: post
- title:  "今日份旧菜单"
+ title:  "今日份旧菜谱"
  date:   2020-05-04 12:12:12
  categories: mics
  image: /assets/article_images/8A5FD2C4-CC74-4546-BC36-BA4BF187FACD.png
