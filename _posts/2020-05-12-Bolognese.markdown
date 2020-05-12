@@ -52,4 +52,4 @@ Bolognese 的故事却并不止于此，毕竟肉酱配上意粉，才称得上�
 <br/>
 所以，因为对意大利人的愤慨感同身受，我决定以捍卫传统的心意，去买 Tagliatelle 这种宽面。而通心粉的世界真的好有趣，一冲动又买了做千层面的 Lasagne, 螺旋形状的 Fusilli, 蝴蝶结样子的 Farfalle, 喇叭花模样的 Campanelle，看样子可不止要做一顿慢炖肉酱了。不过这倒也好，反正已经收藏了各地意式肉酱的做法，从那不勒斯到托斯卡纳，甚至还包括了纽约时报离经叛道的 Bolognese 白酱。其实那份白酱的做法，除了以牛肝菌菇代替番茄，与原本的 Bolognese 做法差异并不太大。虽然能理解意大利人为何因此不满，但我倒是可以想象，有鲜美菌菇的肉酱面，应该也是另外一番令人垂涎的美味。
 
-![](https://raw.githubusercontent.com/lunamenina/lunamenina.github.io/master/assets/images/936A1DD8-58DA-4CF0-AA58-E22F5C1D383C.png) 
+![](https://raw.githubusercontent.com/lunamenina/lunamenina.github.io/master/assets/images/BC4D5A7C-B6CD-42D9-AD9A-C392ADE66913.png) 
