@@ -10,11 +10,9 @@
 <br/>
 **C'est si bon** · *Puffy Carol*
 <audio controls autoplay> C'est si bon
-  <source src="http://tx.stream.kg.qq.com/szkge-btfs/b7dc2e5882badc11c41bee1f8f8c4b8cc401269c?ftnrkey=fdac3b817539393a66eb20cd7279ee4940bb0d798b17bba3a1644527fa4621251bc1bd897cded8f51ca219de95f52d3b24b53edb36e03a8b4e80a9d997c0f50a&vkey=89BD53BB295BCE08C3DF3A0F30394D09389BD74BF109E2829ECEAA3D05CFB04BC796A8B1FD61A0258F5368C210868F4DC62B795ECEDA69DAAB0F1744FBF28D660B3670BC813612E3FFE36802F6824CD65B465CD8ABDC5390&fname=1021_047118ebb150fa9e547e47ef80f967fc6181e5af.0.m4a&fromtag=1018&sdtfrom=v1018&ugcid=637357476_1588976729_756">
+  <source src="http://tx.stream.kg.qq.com/szkge-btfs/b7dc2e5882badc11c41bee1f8f8c4b8cc401269c?ftnrkey=fdac3b817539393a66eb20cd7279ee4940bb0d798b17bba3a1644527fa4621251bc1bd897cded8f51ca219de95f52d3b24b53edb36e03a8b4e80a9d997c0f50a&vkey=89BD53BB295BCE08C3DF3A0F30394D09389BD74BF109E2829ECEAA3D05CFB04BC796A8B1FD61A0258F5368C210868F4DC62B795ECEDA69DAAB0F1744FBF28D660B3670BC813612E3FFE36802F6824CD65B465CD8ABDC5390&fname=1021_047118ebb150fa9e547e47ef80f967fc6181e5af.0.m4a&fromtag=1018&sdtfrom=v1018&ugcid=637357476_1588976729_756" type="audio/mpeg">
 </audio>
-
 <br/>
-
 ---
 <br/>
     美剧波特兰迪亚里有一集，夸张讽刺地描绘了波特兰人民对早午餐的执念。早早起床排几小时的队，严防死守疑似插队的投机分子，虎视眈眈店堂内慢悠悠就餐的无良食客，全为了本地最火爆的黑莓浆果馅饼。那馅饼据坊间传言，柔软蓬松，甜蜜丝滑，入口即化，唇齿留香，宛如身临天堂。虽说喜剧并非生活，却来源于生活，北美人对早午餐的追捧，有时确实叫人觉得不可思议。
