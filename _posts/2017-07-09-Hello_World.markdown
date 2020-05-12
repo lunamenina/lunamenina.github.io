@@ -11,8 +11,6 @@ The obligatory "Hello World" post. <br />
 
 <audio controls>
   <source src="sample.mp3" type="audio/mpeg">
-Oops, it looks like your browser does not support
-this audio element.
 </audio>
 
 
