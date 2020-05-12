@@ -3,8 +3,8 @@
  title:  "慢炖肉酱"
  date:   2020-05-12 12:12:12
  categories: mics
- image: /assets/article_images/8A5FD2C4-CC74-4546-BC36-BA4BF187FACD.png
- image2: /assets/article_images/8A5FD2C4-CC74-4546-BC36-BA4BF187FACD.png
+ image: /assets/article_images/9A6C1A5C-A6FD-4DB5-8663-E8A978C719E3.jpeg
+ image2: /assets/article_images/9A6C1A5C-A6FD-4DB5-8663-E8A978C719E3.jpeg
 ---
 <br/>
 
