@@ -3,8 +3,6 @@ layout: page
 title: About Us
 permalink: /about_us/
 ---
+Humans who love to eat.
 <br/>
-We love to eat. 
-We are the best kind of people.
-And We are best friends. <br />
 
