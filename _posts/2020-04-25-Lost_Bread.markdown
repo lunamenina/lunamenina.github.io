@@ -8,7 +8,7 @@
 ---
 
 <br/>
-C'est si bon
+**C'est si bon** · *Puffy Carol*
 </br> 
 
 <audio controls> C'est si bon
