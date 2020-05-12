@@ -21,7 +21,7 @@
 
 <br/>
     前几日偶然购得 Challah 面包，随即专门请假半日，为的就是可以悠闲地做一顿早午餐。而这主角，便是法式吐司。多年前就曾听闻 Challah 面包之于法式吐司，是浑然天成的绝配，而过往好几个兴致正浓的周末，造访了数家面包坊，却都未能买到这种犹太面包。虽说最终都找到了算是合适的替代，比如最普通的奶油吐司，或是口感更松软的 Brioche, 但用 Challah 面包来做法式吐司，也算是一个多年以来的小小心愿。
-<pre>
+<br/>
 ![challah](https://raw.githubusercontent.com/lunamenina/lunamenina.github.io/master/assets/images/936A1DD8-58DA-4CF0-AA58-E22F5C1D383C.png)
 
 <br/>
