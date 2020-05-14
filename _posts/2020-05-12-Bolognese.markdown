@@ -7,6 +7,12 @@
  image2: /assets/article_images/9A6C1A5C-A6FD-4DB5-8663-E8A978C719E3.jpeg
 ---
 <br/>
+**Santa Lucia** · *Puffy Carol*
+<audio controls>
+  <source src="http://tx.stream.kg.qq.com/szkge-btfs/a527d8aed49d90bac6570c0380c1cf5feb283e79?ftnrkey=08ef29418f7156863d4573f469ef2e7fa3cd3f3b408dddbdc96bf18a2db9db00ecbabd188c54dfd94d16e8b23a34d0610b29a8483d36c5318aa6b2368f87bff6&vkey=F540EE277D9BD1A8D9B8CC623CF85FCD6FE04B4473DCD4A653585D3275F3367866BFB36E53A46FFA7E2F345BC388F54C5A0331AB5CEBE9BF130EB9AAD83EA496AC00C4EBE6531A22DE8371AAEF6F994121CBA3ACBEED47F1&fname=1021_061110ebb150fa9e547e47ef80f96ffc6181b4ac.0.m4a&fromtag=1006&sdtfrom=v1006&ugcid=637357476_1589492823_389" type="audio/mpeg">
+</audio>
+
+---
 
 <br/>
 前些日子说起想去埃及看金字塔，夜里就梦到自己在开罗走街串巷，太过流连于市井繁华，最后竟然忘记去看金字塔了。即使是醒来后，将梦境投影到现实，对自己一贯随心所欲的行事风格，依然是颇为懊丧。梦虽扭曲而模糊，但不知何故，我却仍清晰记得梦里开罗到处都是一种树，高耸而立，像一把把撑开的伞，连成一片片苍翠的云。
