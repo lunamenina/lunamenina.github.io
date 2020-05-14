@@ -1,6 +1,6 @@
 ---
  layout: post
- title:  "慢炖肉酱"
+ title:  "意式慢炖"
  date:   2020-05-12 12:12:12
  categories: mics
  image: /assets/article_images/9A6C1A5C-A6FD-4DB5-8663-E8A978C719E3.jpeg
