@@ -9,9 +9,5 @@
 <br />
 The obligatory "Hello World" post. <br />
 
-<audio controls>sample
-  <source src="https://raw.githubusercontent.com/BradfordMedeiros/ModEngine/master/res/sounds/sample.wav" type="audio/wav">
-</audio>
-
 
 
