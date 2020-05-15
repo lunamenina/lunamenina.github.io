@@ -7,7 +7,12 @@
  image2: /assets/article_images/IMG_2202.jpg
 ---
 <br/>
+**Jambalaya** · *Puffy Carol*
+<audio controls>
+  <source src="http://tx.stream.kg.qq.com/szkge-btfs/023a042b96bb37afe21043a818432ef437566d43?ftnrkey=cce62d8085a78b29bf9cb5ee10fa859d9601668873dad4cbdff9a539dcfb33bfeb26ed22d97fa82f9b58672810b58fac596a9e3669e90e644cd7818d1be63396&vkey=450D764060BE680EF88FBE4E5D2D205D19D0634B6F681854A701FB3E0E13316E49998E69C7F3E85E964059775670FF43C93AAA6008071F40749EC1141726E07999814292124C8F1506A11CC2586EBD36E0E7FD78779B7AE2&fname=1021_cd8516ebb150fa9e547e47ef80f968fc618146af.0.m4a&fromtag=1006&sdtfrom=v1006&ugcid=637357476_1589323938_576" type="audio/mpeg">
+</audio>
 
+---
 <br/>
 “美国只有三座伟大的城市，纽约，三番，和新奥尔良”这句話，据说是出自田纳西·威廉姆斯。也许很多所谓的名人名句，真实确凿的出处并无人知晓，但被重复得多了，也就变得真假难辨。不过，剧作家在新奥尔良，倒是真实确凿地度过了四十载春秋，可以说是名副其实的第二故乡。
 
